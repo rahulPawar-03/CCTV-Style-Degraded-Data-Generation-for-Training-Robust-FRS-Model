@@ -54,7 +54,6 @@ Degraded outputs are saved in a **parallel folder** structure.
 ```bash
 # Clone this repository
 git clone https://github.com/rahulPawar-03/CCTV-Style-Degraded-Data-Generation-for-Training-Robust-FRS-Model.git
-cd CCTV-Style-Degraded-Data-Generation
 
 ```
 
